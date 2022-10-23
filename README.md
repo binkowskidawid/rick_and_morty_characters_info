@@ -1,8 +1,8 @@
-# [Rick and Morty characters info 🥼😂](https://)
+# [Rick and Morty characters info 🥼😂](https://rickandmortycharactersinfo.vercel.app)
 
 ## `Simple app where you can check information about characters from "Rick and Morty" TV series`
 
-### Visit [📦 Website 📦](https://) to see how it works.
+### Visit [📦 Website 📦](https://rickandmortycharactersinfo.vercel.app) to see how it works.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), and TypeScript.
 
